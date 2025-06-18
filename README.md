@@ -105,7 +105,6 @@ The notebook includes several visualizations to illustrate the data and findings
 *   Feature Importance Bar Chart
 *   Model Comparison ROC Curve
 
-*(Consider adding screenshots of your most impactful visualizations here to make your README more engaging visually.)*
 
 # Conclusion
 
