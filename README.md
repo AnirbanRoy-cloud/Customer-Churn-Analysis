@@ -26,8 +26,8 @@ To explore and run the code yourself, follow these steps:
 1.  **Clone the Repository:**
     Open your terminal or command prompt and run:
     ```bash
-    git clone [Your GitHub Repository URL]
-    cd [your-repository-name] # e.g., cd customer-churn-analysis-project
+    git clone [https://github.com/AnirbanRoy-cloud/Customer-Churn-Analysis]
+    cd [Customer-Churn-Analysis] 
     ```
 
 2.  **Create and Activate a Virtual Environment (Recommended):**
@@ -60,7 +60,7 @@ To explore and run the code yourself, follow these steps:
 *   `high_risk_customers.csv`: CSV file identifying customers from the test set predicted to have a high churn probability.
 *   `executive_summary.txt`: A non-technical summary of the project findings and recommendations suitable for business stakeholders.
 *   `technical_summary.txt`: A more detailed summary of the methodology, data, and model for a technical audience.
-*   `README.md`: This file, providing an overview and instructions.
+*   `README.md`: This file provides an overview and instructions.
 
 # Key Findings
 
