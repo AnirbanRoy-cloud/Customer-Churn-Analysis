@@ -1,0 +1,22 @@
+feature,importance
+MonthlyCharges,0.17681914859644296
+TotalCharges,0.17078541545166223
+age,0.1487948467233904
+tenure,0.13445520074488598
+CustomerServiceCalls,0.08592444895078913
+gender_Male,0.02887179229484188
+PaperlessBilling_Yes,0.027684076990846167
+OnlineBackup_Yes,0.02388958389358417
+PaymentMethod_Electronic check,0.023171312337554748
+InternetService_Fiber optic,0.022904921776137066
+OnlineSecurity_Yes,0.02149919272131277
+TechSupport_Yes,0.021466077684302032
+contract_One year,0.02015528010548834
+PhoneService_Yes,0.019410714587648085
+contract_Two year,0.0182111923830495
+PaymentMethod_Credit card (automatic),0.016799594250799237
+PaymentMethod_Mailed check,0.01609747604176898
+OnlineSecurity_No internet service,0.006043587271419514
+OnlineBackup_No internet service,0.005764006855379795
+InternetService_No,0.005643455174405239
+TechSupport_No internet service,0.00560867516429163

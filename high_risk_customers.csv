@@ -1,0 +1,4 @@
+customerID,gender,age,contract,tenure,PhoneService,InternetService,OnlineSecurity,OnlineBackup,TechSupport,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,CustomerServiceCalls,Churn,churn_probability
+CUST_002743,Female,42,Month-to-month,2,No,DSL,No,No,Yes,Yes,Mailed check,79.96,179.45,10,Yes,0.7030726213155678
+CUST_002484,Male,30,Month-to-month,2,Yes,DSL,No,No,No,Yes,Electronic check,71.92,120.47,6,Yes,0.7185997671805967
+CUST_000367,Male,45,Month-to-month,3,No,Fiber optic,Yes,No,Yes,Yes,Electronic check,106.94,318.37,6,Yes,0.707679851042494
