@@ -56,7 +56,7 @@ To explore and run the code yourself, follow these steps:
 *   `Customer_Churn_Analysis.ipynb`: The main Python notebook containing all code and analysis.
 *   `requirements.txt`: Lists all Python libraries required to run the notebook.
 *   `feature_importance.csv`: CSV file detailing the importance scores of features in the churn prediction model.
-*   `model_predictions.csv`: CSV file containing the test set results including actual churn, predicted probabilities, and class predictions.
+*   `model_predictions.csv`: CSV file containing the test set results, including actual churn, predicted probabilities, and class predictions.
 *   `high_risk_customers.csv`: CSV file identifying customers from the test set predicted to have a high churn probability.
 *   `executive_summary.txt`: A non-technical summary of the project findings and recommendations suitable for business stakeholders.
 *   `technical_summary.txt`: A more detailed summary of the methodology, data, and model for a technical audience.
@@ -86,9 +86,9 @@ Strategic recommendations to reduce churn include:
 
 A predictive model was developed to forecast customer churn likelihood.
 
-*   **Best Performing Model:** [Logistic Regression or Random Forest, based on your notebook output]
-*   **Evaluation Metric (AUC-ROC):** [Insert the AUC score from your notebook output, e.g., 0.626]
-*   **High-Risk Customers Identified:** [Insert the number of high-risk customers identified, e.g., 3]
+*   **Best Performing Model** : Logistic Regression 
+*   **Evaluation Metric (AUC-ROC)** : 0.626
+*   **High-Risk Customers Identified** : 3
 
 The model's feature importance analysis highlighted **MonthlyCharges**, **TotalCharges**, **age**, **tenure**, and **CustomerServiceCalls** as the top predictors of churn.
 
